@@ -246,14 +246,32 @@
   .h-90 {
     height: calc(var(--spacing) * 90);
   }
+  .w-1 {
+    width: var(--spacing);
+  }
+  .w-10 {
+    width: calc(var(--spacing) * 10);
+  }
+  .w-130 {
+    width: calc(var(--spacing) * 130);
+  }
   .w-140 {
     width: calc(var(--spacing) * 140);
+  }
+  .w-145 {
+    width: calc(var(--spacing) * 145);
   }
   .w-150 {
     width: calc(var(--spacing) * 150);
   }
+  .w-155 {
+    width: calc(var(--spacing) * 155);
+  }
   .w-160 {
     width: calc(var(--spacing) * 160);
+  }
+  .w-170 {
+    width: calc(var(--spacing) * 170);
   }
   .w-300 {
     width: calc(var(--spacing) * 300);
